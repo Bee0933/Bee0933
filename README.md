@@ -1,6 +1,6 @@
 
 
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Best Nyah </h1>
+<h1 align="center">Hello there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Best Nyah </h1>
 <h3 align="center">I'm an enthusiasic and passionate Machine Learning & Computer Vision Engineer from Nigeria.</h3>
 
 
