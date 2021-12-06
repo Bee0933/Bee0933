@@ -28,6 +28,7 @@
     <a href="http://www.opencv.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/opencv.png"/>
     <a href="https://aws.amazon.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/amazon-web-services.png"/> </a>
     <a href="https://git-scm.com/" target="_blank"> <img src="https://maxcdn.icons8.com/Color/PNG/512/Logos/google_cloud_platform-512.png" height="50"> </a>
+    <img height="50" src="https://cdn3.iconfinder.com/data/icons/social-media-2169/24/social_media_social_media_logo_docker-512.png">
     <a href="http://www.tensorflow.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/tensorflow.png"/> </a>
     <a href="https://www.jetbrains.com/pycharm/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/pycharm.png"/> </a>
     <a href="https://code.visualstudio.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/>
