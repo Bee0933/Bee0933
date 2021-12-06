@@ -6,7 +6,7 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently working on **[Credit card fraud detector](http://18.116.82.67:8502)**
+- 🔭 I’m currently working on **[Mushroom Classification](https://mushroomclassification-333921.nn.r.appspot.com)**
 
 - 🌱 I’m currently learning **Machine Learning & Computer Vision**
 
