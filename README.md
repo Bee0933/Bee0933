@@ -1,12 +1,12 @@
 
 
-<h1 align="center">Hello there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Best Nyah </h1>
-<h3 align="center">I'm an enthusiasic and passionate Machine Learning & Computer Vision Engineer from Nigeria.</h3>
+<h1 align="center">Hello there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="10px">, I'm Best Nyah </h1>
+<h3 align="center">I'm an enthusiasic and passionate Machine Learning & Computer Vision Engineer.</h3>
 
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently working on **[Mushroom Classification](https://mushroomclassification-333921.nn.r.appspot.com)**
+- 🔭 I’m currently working on **[UrbanSound8K](https://github.com/Bee0933/UrbanSound8k)**
 
 - 🌱 I’m currently learning **Machine Learning & Computer Vision**
 
