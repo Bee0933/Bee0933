@@ -12,8 +12,6 @@
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
-- 👨‍💻 All of my projects are available at **[My Portfolio](bestnyah.netlify.app/)**
-
 - 📫 How to reach me **bestnyah7@gmail.com**
 
 - ⚡ Fun fact **I play Musical Instruments and Basketball.**
