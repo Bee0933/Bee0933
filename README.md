@@ -12,7 +12,7 @@
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
-- 👨‍💻 All of my projects are available at **[My Portfolio](https://github.com/Bee0933?tab=repositories)**
+- 👨‍💻 All of my projects are available at **[My Portfolio](bestnyah.netlify.app/)**
 
 - 📫 How to reach me **bestnyah7@gmail.com**
 
