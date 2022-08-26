@@ -1,7 +1,7 @@
 
 
 <h1 align="center">Hello there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="10px">, I'm Best Nyah </h1>
-<h3 align="center">I'm an enthusiasic and passionate Machine Learning & Computer Vision Engineer.</h3>
+<h3 align="center">I'm an enthusiasic and passionate Machine Learning & Software Engineer.</h3>
 
 
 ## 🙋‍♂️ About Me
